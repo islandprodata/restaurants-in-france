@@ -1,0 +1,501 @@
+country,founded,id,industry,linkedin_url,locality,name,region,size,website
+france,,MvyqhTrIVoCQpJtSQAL1uAcupI8T,restaurants,linkedin.com/company/o-brochettes,montpellier,o brochettes,occitanie,1-10,obrochettes.com
+france,,ktzwp2vR1Jy4hcR4XCpQaQ0GhiAc,restaurants,linkedin.com/company/chiken-hut,ivry-sur-seine,chiken hut,île-de-france,1-10,
+france,,DMvpItcKN3AZULbtmKDVpA39Fz9Q,restaurants,linkedin.com/company/la-face-sarl,pointe à pitre,la face sarl,occitanie,1-10,
+france,,FNeRW2t8JmWRFLC75V8C9gG7TcE7,restaurants,linkedin.com/company/restaurant-chez-tante-alice,megève,restaurant chez tante alice,auvergne-rhône-alpes,1-10,
+france,,OhgY6bAGa0JRt32vNzHhyQiHPhRa,restaurants,linkedin.com/company/casa-rina,paris,casa rina,île-de-france,1-10,
+france,,gVcmIsNLafaeMxBbNZ8FDAsrxeJC,restaurants,linkedin.com/company/cree-ta-crepe,clichy,cree ta crepe,île-de-france,1-10,creetacrepe.com
+france,,9bnaxAzFhIOeCyMiewiL8AvqPaMA,restaurants,linkedin.com/company/le-saint-valentin,nice,le saint valentin,provence-alpes-côte d'azur,1-10,
+france,,mpMFE8be8WOATjkCRjAVJA2WyoTW,restaurants,linkedin.com/company/le-miam-tacos,clermont-l’hérault,le miam tacos,occitanie,1-10,
+france,,8Iblq19w414lYGwvQCkZkwRmOE49,restaurants,linkedin.com/company/eurl-serge-lanoix,rue-de-la-halle,eurl serge lanoix,grand est,1-10,
+france,,4eX7Gwvle9nCohrrABZ8JQP6leAE,restaurants,linkedin.com/company/ogec-notre-dame-des-batignolles,nantes,ogec notre dame des batignolles,pays de la loire,11-50,
+france,,8CHKgdqpVT1b22P4q1A2TAez8Yk8,restaurants,linkedin.com/company/la-casa-del-burger,dijon,la casa del burger,bourgogne-franche-comté,1-10,lacasadelburgers21.fr
+france,,i5UTakql2NhQXurj2BgDdgDqyMrq,restaurants,linkedin.com/company/societe-le-rollon,placé,societe le rollon,pays de la loire,1-10,
+france,,pRm66UKL5tRkrWLoGlqpIQvnvKcq,restaurants,linkedin.com/company/if3c,saint-victor-sur-rhins,if3c,auvergne-rhône-alpes,1-10,
+france,2022,KIObIOgXVEu44Q2Pso7r2wHLlBDP,restaurants,linkedin.com/company/ça-va-smasher,paris,ça va smasher,île-de-france,11-50,cava-smasher.fr
+france,,h71vBITbCrl1GYcoQYJBRgXYtBNB,restaurants,linkedin.com/company/la-dent-creuse,canon,la dent creuse,normandie,1-10,
+france,,4lEjvjOR44htMMhrPhJl4QBazCOp,restaurants,linkedin.com/company/créperie-les-fougères,pleyber-christ,créperie les fougères,bretagne,1-10,
+france,,wOCYr1LvDSr1iHauQlBxDgvJdEZC,restaurants,linkedin.com/company/clémentine-café,conflans-sainte-honorine,clémentine café,île-de-france,1-10,
+france,,0TqC34PfJKmBjAeY7AVqEQ6fJFLW,restaurants,linkedin.com/company/les-cascades,gavarnie-gèdre,les cascades,occitanie,1-10,
+france,2015,yVyaQavqW23gBpNtqNHBjAs2YBwC,restaurants,linkedin.com/company/eurl-pizza-jenini-au-feu-de-bois,pontcharra,pizza jenini au feu de bois,auvergne-rhône-alpes,1-10,pizzajenini.fr
+france,,gfVZXE9zlQRDyXVwSzjo7w95mXDK,restaurants,linkedin.com/company/linsolent,paris,linsolent,île-de-france,1-10,
+france,,uMagFzXLCeKRPskH2CBpyw6QtOoq,restaurants,linkedin.com/company/naniwa-ya,paris,naniwa-ya,île-de-france,1-10,
+france,,qgIXrG5Ox2yJfMLxLJlQqgjHy2wJ,restaurants,linkedin.com/company/cellier-morel,rue de chorette,cellier-morel,hauts-de-france,1-10,celliermorel.com
+france,,d2DyYydXx8fJs34MsuBxMQNT1x4t,restaurants,linkedin.com/company/la-brioche-2,clermont-ferrand,la brioche 2,auvergne-rhone-alpes,1-10,
+france,,TO7zBsWI7pXXkXcphBFRqQsxCalz,restaurants,linkedin.com/company/delipizza,paris,delipizza,île-de-france,1-10,
+france,,oeaEX4C2ZmXidcCwNWNOHQGvPvU0,restaurants,linkedin.com/company/sarl-lili,lyon,sarl lili,auvergne-rhone-alpes,1-10,
+france,,PHqEv0d5GwMOkGfZ5vSxRQg4Kn65,restaurants,linkedin.com/company/soleil-et-plage,saintes-maries-de-la-mer,soleil et plage,provence-alpes-côte d'azur,1-10,
+france,,Za8CVqSxB1BlGu9YCRyJYwd0dNs9,restaurants,linkedin.com/company/l'atelier-du-burger,toulouse,l'atelier du burger,occitanie,1-10,
+france,,0l8dcDJwG7igmRbiCRZkRgk7J12s,restaurants,linkedin.com/company/le-meurice-by-alain-ducasse,paris,le meurice by alain ducasse,île-de-france,1-10,
+france,,hPacy23mt5InevygxDoMYQWaKaiH,restaurants,linkedin.com/company/la-brasserie-de-l’horloge,avignon,la brasserie de l’horloge,provence-alpes-côte d'azur,1-10,la-brasserie-de-lhorloge.business.site
+france,,SLnaCveoBtrqWqWD2eGVfA6cOyKI,restaurants,linkedin.com/company/perard-traditions,le touquet-paris-plage,perard traditions,hauts-de-france,11-50,
+france,,ciSIK7YQxfBNUDjRhIfoNw0bQOBj,restaurants,linkedin.com/company/dostdogru-saim,louviers,dostdogru saim,normandie,1-10,
+france,,zKX30MScpirArSjUCCjS0Qbom0kO,restaurants,linkedin.com/company/hope-hill,saint-martin-boulogne,hope hill,hauts-de-france,1-10,
+france,,1I9BAnAVPRmRsIwR8R85MASKlt7E,restaurants,linkedin.com/company/oh-brother,nimes,oh brother,occitanie,1-10,
+france,,iyBHmeE2m9Bs6qoCHnDUCwK6Iadh,restaurants,linkedin.com/company/yu-chao,rue-de-la-halle,yu chao,grand est,1001-5000,
+france,,EnEVvf3x3BrFbgzKECfndggXRrny,restaurants,linkedin.com/company/la-napolitaine,issy-les-moulineaux,la napolitaine,île-de-france,1-10,
+france,,wuvDJ2qY7XEWQvcxhZprTQheuACl,restaurants,linkedin.com/company/ice-park,marseille-en-beauvaisis,ice park,hauts-de-france,1-10,
+france,,ibSvYHqHX5DEbsIwawluJgVkn5Hp,restaurants,linkedin.com/company/k-wings,paris,k-wings,île-de-france,1-10,
+france,,JXKgwSTBXOCZ9dpJMRIinAd9rhkE,restaurants,linkedin.com/company/brasserie-barbès,paris,brasserie barbès,île-de-france,1-10,brasseriebarbes.com
+france,2014,unrFQc42GFnSGQ8bYrUvLwxt2w1I,restaurants,linkedin.com/company/bds-restaurant,rennes,bds,bretagne,51-200,bds-restaurant.com
+france,,v6c28FG4yE74JoXw9RKfCwLg3NCK,restaurants,linkedin.com/company/sas-mifa,martel,sas mifa,occitanie,1-10,
+france,,UCHBQcPLI3STIQmBNJsHXggdY9GA,restaurants,linkedin.com/company/boem-restaurant,aigues-mortes,boem restaurant,occitanie,1-10,
+france,,0U25tmwJxq0rqGwJAiQmrA3u3vRK,restaurants,linkedin.com/company/l-ivresse-des-cimes,saint-aventin,l ivresse des cimes,occitanie,1-10,
+france,,C1YHnF3HGaEvTKfaTdTDlA9E0dGC,restaurants,linkedin.com/company/la-pizzathèque,toulouse,la pizzathèque,occitanie,1-10,
+france,,RSQjVedoVYkBHLTSEQCgewHRYMQ3,restaurants,linkedin.com/company/restaurant-le-kalou-sarl,saint-pierre-du-perray,restaurant le kalou sarl,île-de-france,1-10,
+france,,7zjYN5JIRhD2azRHhREKBwGyiZXd,restaurants,linkedin.com/company/f&a-lino-ristorante-pizzeria,saint-julien-lès-metz,f&a lino ristorante pizzeria,grand est,1-10,fa-lino-ristorante-pizzeria.business.site
+france,,uzgNl42iXSbA7d6P12xymwiw6Lok,restaurants,linkedin.com/company/le-havre-de-paix,rue de chorette,le havre de paix,hauts-de-france,1-10,
+france,,OXV5amR5faBwLAzgqdvLPwe1zpys,restaurants,linkedin.com/company/pausuma,vallauris,pausuma,provence-alpes-côte d'azur,1-10,
+france,,7dSMon51roFJJa8tFZBwFAAT9wK7,restaurants,linkedin.com/company/kimpop,paris,kimpop,île-de-france,1-10,
+france,,Gc2Ctws5LiWjkC7BSkxppgjM9ceh,restaurants,linkedin.com/company/texas-chicken-grill,poitiers,texas chicken grill,nouvelle-aquitaine,1-10,
+france,,hZAyws06Hyj015RStlS6gAQObB6f,restaurants,linkedin.com/company/sarl-elonie,canet-en-roussillon,sarl elonie,occitanie,1-10,
+france,,YxtFjzYkFOp0NTfhSMbrVge4jfrp,restaurants,linkedin.com/company/le-pré-martin-,annot,"le pré martin,",provence-alpes-côte d'azur,1-10,lepremartin.com
+france,,rcbPYKN0uewQrAJxO5zMJQBLI1vr,restaurants,linkedin.com/company/royal-pizza-lens,lens,royal pizza lens,hauts-de-france,1-10,royalpizzalens.fr
+france,,e8504DM3Bp4WCaunpAXj2gJwoWs3,restaurants,linkedin.com/company/la-courtine,saint-nicolas-de-port,la courtine,grand est,1-10,
+france,,3Zf0ZIfK1TzCfJN8QutvJQK27I4L,restaurants,linkedin.com/company/le-comptoir-de-la-marine,bordeaux,le comptoir de la marine,nouvelle-aquitaine,1-10,
+france,,GvCll0NBwEvCKrxEGaLqTwBPtDa9,restaurants,linkedin.com/company/phuong-thuy-sarl,rue du rosult,phuong thuy sarl,hauts-de-france,1-10,
+france,2021,uJi67WqT7oljo3RjPGPMPASyNw1A,restaurants,linkedin.com/company/my-french-atti-tube,le pin,my french atti'tube,île-de-france,1-10,attitube.fr
+france,,wCEXQwhFQhsCE5tkLZtEPA8nIWYW,restaurants,linkedin.com/company/la-moule-qui-rit,toulouse,la moule qui rit,occitanie,1-10,
+france,,C4DVIhMIbMco6Z172NCt8AEta7Gu,restaurants,linkedin.com/company/sarl-almini,paris,sarl almini,île-de-france,1-10,
+france,,Kp55pYb3z56Z0kiyCPa9YAUzU2fK,restaurants,linkedin.com/company/m&s-siam,toulouse,m&s siam,occitanie,1-10,
+france,,viMhI5B9l1mEpdOCmKG68wxcMvoo,restaurants,linkedin.com/company/restaurant-les-ganivelles,gaillac,restaurant les ganivelles,occitanie,1-10,restaurantlesganivelles.com
+france,,1IHvB88NgmtB9oNggZX7NgGK6fZY,restaurants,linkedin.com/company/king-pasta,valenciennes,king pasta,hauts-de-france,1-10,
+france,,fFpHo4MqjONUM1cMloNeKAEYVk7S,restaurants,linkedin.com/company/le-bar-bleu,la garenne-colombes,le bar bleu,île-de-france,1-10,
+france,,7N3gDUeq2yiKlAPai7rZRwtvQbGF,restaurants,linkedin.com/company/restaurant-madame-monsieur,le chesnay,restaurant madame monsieur,île-de-france,1-10,restaurantmadamemonsieur.fr
+france,,gfxVG8mIAXLjlduBXUCrngRi8fiO,restaurants,linkedin.com/company/le-28-thiers,lille,le 28 thiers,hauts-de-france,1-10,le28thiers.fr
+france,,8uB31fNyXCzdryCYUqLJngdV5tX6,restaurants,linkedin.com/company/restaurant-le-fabuleux-destin,beaulieu-sur-mer,restaurant le fabuleux destin,provence-alpes-côte d'azur,1-10,restaurant-lefabuleuxdestin.fr
+france,,75EubA13Ar50bOMBi50nMA93Wja4,restaurants,linkedin.com/company/baguett's,paris,baguett's,île-de-france,1-10,
+france,,CdUn4yPBc2XtfQnsEl1zjgyFC7Vj,restaurants,linkedin.com/company/k.a.u.s,saint-germain-en-laye,k.a.u.s,île-de-france,1-10,
+france,,zmOVMeAzxA9B9r2Mp5DCpwq7hyuT,restaurants,linkedin.com/company/vegas-sarl,l’isle-adam,vegas sarl,île-de-france,1-10,
+france,,PJMWfM90GiFThEvTLcPsCgFVkHwt,restaurants,linkedin.com/company/groupe-gelam,bourges,groupe gelam,centre-val de loire,51-200,
+france,,2CEUo1Y1ofKbReykj5I0tAxCynQp,restaurants,linkedin.com/company/restaurant-coretta---chez-vous,paris,restaurant coretta - chez vous,île-de-france,1-10,restaurantcoretta.com
+france,,75Eok71gdu0qasxGUSfTxwOW9Gm5,restaurants,linkedin.com/company/rod's-coffee,bourg-en-bresse,rod's coffee,auvergne-rhône-alpes,1-10,rods-coffee.fr
+france,,kH2DArnwoBGq5ltpDeZH9Q1cbEH3,restaurants,linkedin.com/company/reibel-sarl,colmar,reibel sarl,grand est,1-10,
+france,,n9C2KvrtC2US7NrioatMaQZ5z2Ue,restaurants,linkedin.com/company/l'eden-cafe,boulogne-billancourt,l'eden cafe,île-de-france,11-50,
+france,,kGGkUKKCABh0iOsZu5iAPQwRYROf,restaurants,linkedin.com/company/le-10-vins,firminy,le 10 vins,auvergne-rhône-alpes,1-10,
+france,,bDWEfY3PCTrsL8LWQKYEPQDSClRV,restaurants,linkedin.com/company/cigalas,villecroze,cigalas,provence-alpes-côte d'azur,1-10,
+france,,NBztGyXbMHB77ZElQsnV0QkKgU8k,restaurants,linkedin.com/company/café-chez-tilly,locquirec,café chez tilly,bretagne,1-10,
+france,,tBKKB9rjYlzUGW6Q8AeriQsCprtZ,restaurants,linkedin.com/company/matapalo,biscarrosse,matapalo,nouvelle-aquitaine,1-10,
+france,,CdwAJeckrVd5Ik6EfVx4iQ6kicVW,restaurants,linkedin.com/company/petit-restaurant-ottoman,paris,petit restaurant ottoman,île-de-france,1-10,petitrestaurantottoman.eatbu.com
+france,,IIguc19JFDDPQgFUXfWYhQU7onMk,restaurants,linkedin.com/company/sarl-tropicana,cogolin,sarl tropicana,provence-alpes-côte d'azur,1-10,
+france,,T0bKCMimY5x22O0O7Q0rCQ7r4FJx,restaurants,linkedin.com/company/krung-thep,paris,krung thep,île-de-france,1-10,
+france,,7KWpJh4HG1DgAYNQAllDrwg8pLpQ,restaurants,linkedin.com/company/caveau-auberge-alsacienne,châtenois,caveau auberge alsacienne,grand est,1-10,
+france,,E2iHuAQpjW3zCeiAtEOm8Ab1CJLl,restaurants,linkedin.com/company/coco-velten,marseille-en-beauvaisis,coco velten,hauts-de-france,1-10,cocovelten.org
+france,,xwnYdjLdpTy1GaWBBrcJUgs94E6H,restaurants,linkedin.com/company/autour-d’un-cep,angers,autour d’un cep,pays de la loire,1-10,
+france,,CaMIBICKZxFc4HIXGkMCJQrDy6l1,restaurants,linkedin.com/company/pizza-saint-jerome,aix-en-provence,pizza saint jerome,provence-alpes-côte d'azur,1-10,pizzasaintjerome.fr
+france,,p2UMHJT5dShzPGAKwzSUQAOCg7Le,restaurants,linkedin.com/company/lupin-blanc,revest-des-brousses,lupin blanc,provence-alpes-côte d'azur,1-10,lupinblanc.fr
+france,,5bhn6p7WfnISLClelTza8AHFRLgi,restaurants,linkedin.com/company/corpon,bordeaux,corpon,nouvelle-aquitaine,1-10,
+france,,gsqdD8UqB3ed8UsbDwwZngx7rwUk,restaurants,linkedin.com/company/eurl-la-basta,le havre,eurl la basta,normandie,1-10,
+france,,7T63kjdt9yQfc6gdlDdxvgOjcdor,restaurants,linkedin.com/company/roumaissa,saint-maur-des-fossés,roumaissa,île-de-france,1-10,
+france,,y6COBjQFTfbLfdTIhzf5JgeuBg2Y,restaurants,linkedin.com/company/chez-dionysos,orléans,chez dionysos,centre-val de loire,1-10,chezdionysos.fr
+france,,sHdPurBS8gQeZ6SRQCoeqgdRBDm2,restaurants,linkedin.com/company/s.a.s-dk,créteil,s.a.s dk,île-de-france,1-10,
+france,,7dkISxCGGlwMpK4AtSmPrwSOUkwT,restaurants,linkedin.com/company/le-caveau-du-haxakessel,rouffach,le caveau du haxakessel,grand est,1-10,
+france,,jAEU3yIMmTkHCb9xnPht9wY4SUJn,restaurants,linkedin.com/company/eden-rock-cafe,marseille-en-beauvaisis,eden rock cafe,hauts-de-france,1-10,
+france,,MX0B5tsNhW5LtO1BydWnAw1W76Sc,restaurants,linkedin.com/company/lac-du-printemps,hayange,lac du printemps,grand est,1-10,
+france,,SpmfLeqMBcZFw6HUCKC5YQczG4sA,restaurants,linkedin.com/company/jubayer,maisons-laffitte,jubayer,île-de-france,1-10,
+france,2017,OIBVCZxrMTBRrK7lIvH09QNlHGhy,restaurants,linkedin.com/company/bricktop-pizza,paris,bricktop pizza,île-de-france,11-50,bricktoppizza.com
+france,,PAPuj7hq2TtD74yqLBCIYA5PWOP3,restaurants,linkedin.com/company/au-crêp’uscule,noirmoutier-en-l’île,au crêp’uscule,pays de la loire,1-10,aucrepuscule.fr
+france,,HCf5g7xkGfCg6WhCwU7OeQmLs0aV,restaurants,linkedin.com/company/meishi-daily,reims,meishi daily,grand est,1-10,meishidaily.eatbu.com
+france,,faRS5YCQnehIwuy27amdJAtz2XfQ,restaurants,linkedin.com/company/au-pays-des-santons,pierrelatte,au pays des santons,auvergne-rhône-alpes,1-10,
+france,,M9qkFAj2g4GrG6s1R1r7lQA0zd4u,restaurants,linkedin.com/company/new-hot-dog,marseille-en-beauvaisis,new hot dog,hauts-de-france,1-10,
+france,,DKXPxBjnmMSdpzVTB0bcEABLtTxA,restaurants,linkedin.com/company/mauyo,lons-le-saunier,mauyo,bourgogne-franche-comté,1-10,
+france,,1hIIwCRVg4OG7SCjMa9x5wabykHu,restaurants,linkedin.com/company/les-crocs,paris,les crocs,île-de-france,1-10,
+france,,fkMWtBdx9mdveGxwbPgfzAKwnERk,restaurants,linkedin.com/company/solo-pizza-napoletana,chessy,solo pizza napoletana,île-de-france,1-10,solopizzanapoletana.fr
+france,,MuDVChVKNbOwciRixKTh3AEGWQKa,restaurants,linkedin.com/company/sarl-baskan,lons-le-saunier,sarl baskan,bourgogne-franche-comté,1-10,
+france,,u9xlmmFo35n8CdBVHBcfLQlr9y4j,restaurants,linkedin.com/company/hotel-la-maison-blanche,gassin,hotel la maison blanche,provence-alpes-côte d'azur,1-10,
+france,,HqRBwgi6GYoYrqDm5RLifAR2RbQ1,restaurants,linkedin.com/company/au-healthy,vierzon,au healthy,centre-val de loire,1-10,auhealthy.fr
+france,,hWWOBqEefPvHd84CsC4oLgd3sDIi,restaurants,linkedin.com/company/maison-darnauzan,bordeaux,maison darnauzan,nouvelle-aquitaine,1-10,maisondarnauzan.com
+france,,K9l2CSKBOj114UwEyt9RTgy4IFmo,restaurants,linkedin.com/company/le-belvédère-restaurant,rocamadour,le belvédère restaurant,occitanie,1-10,
+france,,2IRQccNjvmhT507HgsAnoAdSlckf,restaurants,linkedin.com/company/restaurant-le-chistéra,ordiarp,restaurant le chistéra,nouvelle-aquitaine,1-10,remymugordoy.wix.com
+france,,y9dfkrjw6fe9dGscH6XgRwvcD2zk,restaurants,linkedin.com/company/arome-café,nimes,arome café,occitanie,1-10,
+france,,tqCxYdYbMpRXQolFWmb16wS7Fia1,restaurants,linkedin.com/company/assilah-snack,seclin,assilah snack,hauts-de-france,1-10,
+france,,9avIpBeVvv1DzMgWx11rcQLXB4lb,restaurants,linkedin.com/company/les-mets-de-la-mer,saint-saëns,les mets de la mer,normandie,1-10,
+france,,zDf8bwM7zExqK9mWPm3h5QEGKSXr,restaurants,linkedin.com/company/cancavena,rennes,cancavena,bretagne,1-10,
+france,,HRYjNsz8A0w4xEmT4HhRiwwENJAV,restaurants,linkedin.com/company/café-cactus,rennes,café cactus,bretagne,1-10,cafe-cactus.fr
+france,,Sy5nBuxwbTCBBu916fRUlwsIqINu,restaurants,linkedin.com/company/ellissea,pierrepont-sur-avre,ellissea,hauts-de-france,1-10,
+france,,dmDO5s06xFqn3iaBtYJfCwwBn8BK,restaurants,linkedin.com/company/chatelain-eric-maurice,macquigny,chatelain eric maurice,hauts-de-france,1-10,
+france,,W8Be2S4INuRHyBxXE7ZLQA1GHlhs,restaurants,linkedin.com/company/bollyfood,bourg-en-bresse,bollyfood,auvergne-rhône-alpes,1-10,bollyfood.fr
+france,,0Ziwm8mbSOUQ1sLWoTwiLgrwekS9,restaurants,linkedin.com/company/les-papilles-en-seine,rouen,les papilles en seine,normandie,1-10,papilles-et-traditions-rouen.eatbu.com
+france,,ABZ1ttGwyKtuJaKXPbxm5QHapCns,restaurants,linkedin.com/company/ger-sarl,bordeaux,ger sarl,nouvelle-aquitaine,1-10,
+france,,XuFdHFvZ2fOqbAJ5aMp4vAsj2ySs,restaurants,linkedin.com/company/chez-claude,saint-alban,chez claude,occitanie,1-10,
+france,1979,n5pc6nHZ14gfGjRgx8D4BgxpL8xH,restaurants,linkedin.com/company/la-ducasse,lille,la ducasse,hauts-de-france,11-50,laducasse.fr
+france,,CazfaTFGYuXBgKKOj3yuyQqx9zJF,restaurants,linkedin.com/company/la-mézzanine,louviers,la mézzanine,normandie,1-10,
+france,,IByhCGxpc6JawijuD5wfBg5Eg1V1,restaurants,linkedin.com/company/okito-sushi,pierrelaye,okito sushi,île-de-france,1-10,
+france,,Ix9HmuWKrXLsWfoecokeLAyW1AuT,restaurants,linkedin.com/company/auberge-au-cochon-ventru,thil-sur-arroux,auberge au cochon ventru,bourgogne-franche-comté,1-10,
+france,,LOv5e9G5HGQpXFZfJo3OpgcNmQGt,restaurants,linkedin.com/company/extra-pizza,vincennes,extra pizza,île-de-france,1-10,extrapizza.fr
+france,,WMTsgBTFikbSZE9JJmManAmfRC6F,restaurants,linkedin.com/company/pastazz,rue de chorette,pastazz,hauts-de-france,1-10,
+france,,WA1j9fqXyokBV81ZBySMBgJt2AwX,restaurants,linkedin.com/company/hokiko,asnières-sur-seine,hokiko - restaurant japonais,île-de-france,11-50,hokiko92.fr
+france,,30mdeU0Va1wSpUOC2ScWdwc2yAS5,restaurants,linkedin.com/company/restaurant-golf-de-biarritz,biarritz,restaurant golf de biarritz,nouvelle-aquitaine,1-10,
+france,2012,lZAZKGQ8Bf9GQ6KHgrWE9gBdobop,restaurants,linkedin.com/company/max-à-table,bordeaux,max à table - le bistrot connecté,nouvelle-aquitaine,11-50,maxatable.com
+france,,RsIgaIo7lyWhTGS3gnZ8NAtRX0BO,restaurants,linkedin.com/company/buldan,paris,buldan,île-de-france,1-10,
+france,,eUQ4biGxd7yKkcUKYkBvVgMT0kqk,restaurants,linkedin.com/company/le-saint-gangolphe,rue,le saint gangolphe,hauts-de-france,1-10,
+france,2003,RgNwdwQ1T4L45XIVNZ5kVA6Kk9DW,restaurants,linkedin.com/company/il-caffeparis,paris,il caffe,île-de-france,11-50,
+france,,quKUgOfbne7eJvzyECNAUQO0cl7n,restaurants,linkedin.com/company/montagne-michele,carcassonne,montagne michele,occitanie,1-10,
+france,,17E8eDKboWtjcUrYTmVYPAAYeHJM,restaurants,linkedin.com/company/l’eau-vive---mon-magasin-bio,bidart,l’eau vive - mon magasin bio,nouvelle-aquitaine,1-10,
+france,,CFN9acaKJs9IEpQBBTAozgsnhhgX,restaurants,linkedin.com/company/4-g-concept,niort,4 g concept,nouvelle-aquitaine,1-10,
+france,,RrJyrPb1dwEcrwD4hC40WANR4GzB,restaurants,linkedin.com/company/gaïo-saint-tropez,saint-tropez,gaïo saint-tropez,provence-alpes-côte d'azur,11-50,gaio.club
+france,,Owb989SgYeIwzAvAavwJkAy6br42,restaurants,linkedin.com/company/o-sushi-zen,gaillac,o sushi zen,occitanie,1-10,
+france,,ej9u8K2Z9zWvQKGdHJjbjgzixMxQ,restaurants,linkedin.com/company/la-p'tite-nana,annecy,la p'tite nana,auvergne-rhône-alpes,1-10,
+france,,2Ob7SFJc2Vsmod5J0FlT5A8Pd1ly,restaurants,linkedin.com/company/tfpn,albi,tfpn,occitanie,1-10,
+france,,C30nvQwyZWkCTYsBxfKmKAH4awsu,restaurants,linkedin.com/company/mas-de-luzière,mas-de-londres,mas de luzière,occitanie,1-10,luziere.com
+france,,az02iNDPISxnXqiiR2fgcwrdwM6c,restaurants,linkedin.com/company/m.chicken,soings-en-sologne,m.chicken,centre-val de loire,1-10,mchicken.business.site
+france,,LBTX1Adt48hX9A4FFx1wmA7eyc0W,restaurants,linkedin.com/company/madame-sardine,saint-martin-de-ré,madame sardine,nouvelle-aquitaine,1-10,
+france,,Y2CmMyhFjC6kRmOSX7kCHw1jeJcY,restaurants,linkedin.com/company/restaurant-le-forum,manosque,restaurant le forum,provence-alpes-côte d'azur,1-10,
+france,,mUUoQOr9ANnCH76nKPmrlgLS9Nys,restaurants,linkedin.com/company/la-brasserie-53,nice,la brasserie 53,provence-alpes-côte d'azur,1-10,
+france,,iJOd0thNuw2HXFSjbe4KKwrpM6vM,restaurants,linkedin.com/company/restaurant-rols-carrier,almont-les-junies,restaurant rols-carrier,occitanie,1-10,restaurantrolscarrier.fr
+france,,BUP1RxBgEeBETNALskgxSwtCcLNJ,restaurants,linkedin.com/company/café-louis,besancon,café louis,bourgogne-franche-comte,1-10,
+france,2020,6h5jPEXGP6V06T6E7C8orAe8O88p,restaurants,linkedin.com/company/sosso-restaurant,paris,sosso restaurant,île-de-france,1-10,sossorestaurant.fr
+france,,WiYUxeqDY4CIKB6fz9CTcwwgbHoZ,restaurants,linkedin.com/company/autour-de-la-pierre,bois-de-la-pierre,autour de la pierre,occitanie,1-10,autour-de-la-pierre.fr
+france,,QBO6HDQPiNkCy5wPbtd9lQW45rcZ,restaurants,linkedin.com/company/saran-food,saran,saran food,centre-val de loire,11-50,
+france,,L7HJQQEs6mgjtcAs7UsEeAQgbZc3,restaurants,linkedin.com/company/fievet-garance,saint-quentin-le-verger,fievet garance,grand est,1-10,
+france,,47wpSUKC40a2vxu91OD0NAC2ND2A,restaurants,linkedin.com/company/les-causettesdeplouer,plouër-sur-rance,les causettesdeplouer,bretagne,1-10,lescausettesdeplouer.com
+france,,KqilvTECxLxfkVfeOAik6Qit9w0A,restaurants,linkedin.com/company/eurl-vailly-express,vailly-sur-aisne,eurl vailly express,hauts-de-france,1-10,
+france,,wEzXkvUap8iilkmWQqm4YwE7PhoM,restaurants,linkedin.com/company/la-table-34,paris,la table 34,île-de-france,1-10,
+france,,V7KREUqHOzyW1LVz0invAwS8VoeN,restaurants,linkedin.com/company/ghazaouet,melun,ghazaouet,île-de-france,1-10,
+france,,IKNpOgEKHEL2rcwhGOkZ2w11Dsxp,restaurants,linkedin.com/company/lemurat,paris,lemurat,île-de-france,11-50,restaurant-lemurat.com
+france,,RTf3wWLRoka7fbzrCrvMywibCBOV,restaurants,linkedin.com/company/le-moulin-d'auteuil,paris,le moulin d'auteuil,île-de-france,10001+,
+france,,L1IqlqNVelEP1S04QdQvjgrIbD2u,restaurants,linkedin.com/company/mcdonald-s-eure-pont-audemer-bourg-achard-val-de-reuil,le havre,mcdonald's eure (pont-audemer - bourg achard - val de reuil,normandie,11-50,
+france,,IGAEZA6ZSpcwp3QqKsgIQAJI0Aib,restaurants,linkedin.com/company/la-table-a-fromage,boulogne-billancourt,la table a fromage,île-de-france,1-10,
+france,2013,UMaURuha6njjjsohTvPeHQKn1k7B,restaurants,linkedin.com/company/chickenbaconlettuce,paris,chicken bacon lettuce,île-de-france,11-50,chickenbaconlettuce.com
+france,1986,GuSDZ6THHNk3hJXCLvEBnQWlMJqw,restaurants,linkedin.com/company/l-arpege,paris,l'arpège,île-de-france,1-10,alain-passard.com
+france,,oggI6dSFYbH3n9DNvmBh7wgxvpyw,restaurants,linkedin.com/company/restaurant-du-canard,hangest-sur-somme,restaurant du canard,hauts-de-france,1-10,restaurantducanard.com
+france,,mc8NBPP8lq78ncKCBswLdwQOUUbY,restaurants,linkedin.com/company/pizzatissima,champigny-sur-marne,pizzatissima,île-de-france,1-10,pizzatissima.com
+france,,ETN0yiWJTFw9XIgk4lBoFgZjPeGQ,restaurants,linkedin.com/company/a-stazzona,ghisoni,a stazzona,corse,1-10,
+france,,WFhJsIb8EhekICl5n3lyRgSaqgKI,restaurants,linkedin.com/company/jcml,gardanne,jcml,provence-alpes-côte d'azur,1-10,
+france,,BbZVUnYpX9rwdCpgm0A5DQiO4GFc,restaurants,linkedin.com/company/restaurant-la-castagno,antraigues-sur-volane,restaurant la castagno,auvergne-rhône-alpes,1-10,
+france,,KG2bLbACriSGOlHLYBkI8wsKP4Zm,restaurants,linkedin.com/company/sakura-and-co,arles,sakura and co,provence-alpes-côte d'azur,1-10,
+france,,LjZcoJJ6DhZyszZXt6cZSAU7spPF,restaurants,linkedin.com/company/sas-sperare,montauban,sas sperare,occitanie,11-50,
+france,,yzAQQhZeD4AKKlAX5VL6bge8Artc,restaurants,linkedin.com/company/la-hutte-gauloise,altwiller,la hutte gauloise,grand est,1-10,
+france,,2OI5atMIzdR7XEuWNC8clwL8vw6f,restaurants,linkedin.com/company/pizza-zaza,aix-les-bains,pizza zaza,auvergne-rhône-alpes,1-10,
+france,,aXAVHi6Ni4TYanyHyZqhaQXgp5rU,restaurants,linkedin.com/company/c'est-pret,saint-didier-en-velay,c'est pret,auvergne-rhône-alpes,1-10,
+france,,0k8mAdEKITppFsH2K1G6YQGnyDr7,restaurants,linkedin.com/company/lou-mistralou,saint-andiol,lou mistralou,provence-alpes-côte d'azur,1-10,restaurant-hotel-provence.com
+france,,i5kyBRZ8cEMymvwaja5JwwMqltPt,restaurants,linkedin.com/company/koyaka-kitchen,paris,koyaka kitchen,île-de-france,1-10,
+france,2014,HP4jq9RRbIeUecDr7zCbaA9zw6OX,restaurants,linkedin.com/company/poutinebros,rennes,poutinebros,bretagne,11-50,poutinebros.com
+france,,yAjuwpB2uNjFpen9OGNjPwfCCxY2,restaurants,linkedin.com/company/ol-argences,argences,ol argences,normandie,1-10,
+france,,bn1NKzRvh2uDk3Q3uAKm2QqlVnlg,restaurants,linkedin.com/company/enghien,paris,enghien,île-de-france,1-10,
+france,,ds7jjePfFJ2a4nfHdHYeige6RzTf,restaurants,linkedin.com/company/sun7-beach,la grande-motte,sun7 beach,occitanie,1-10,
+france,,UgNGdWbjo6lQ3LmCl3lLiQ6Evh3w,restaurants,linkedin.com/company/sarl-le-saint-nicolas,saint-nicolas-la-chapelle,sarl le saint nicolas,auvergne-rhône-alpes,1-10,
+france,,J0BcTglftafYkJPV42PUHwwDDmXR,restaurants,linkedin.com/company/la-cantine-de-la-section,bizanos,la cantine de la section,nouvelle-aquitaine,1-10,
+france,2022,rayx83d0Z1hRWrCvK94upwZ46qMm,restaurants,linkedin.com/company/le-bistrot-des-copains-colombes,colombes,le bistrot des copains colombes,île-de-france,1-10,facebook.com/lebistrotdescopainslesvallees
+france,,9uWuXa7OYgGzlhF7edGo7wpsPWnl,restaurants,linkedin.com/company/pizzeria-don-giuseppe,mouvaux,pizzeria don giuseppe,hauts-de-france,1-10,
+france,,b5UAe1Cy7A72of7erw0GugB6hoA4,restaurants,linkedin.com/company/la-crémaillère-restaurant,courseulles-sur-mer,la crémaillère restaurant,normandie,1-10,
+france,,RsmIJgCPO6258yaDXs0Q9QQ7fEKQ,restaurants,linkedin.com/company/le-parvis-bowling,évreux,le parvis bowling,normandie,1-10,leparvis-bowling.fr
+france,,oAUAfdG0HuT3zrsgSmhvUgteJfls,restaurants,linkedin.com/company/gri-n,angers,gri n,pays de la loire,1-10,
+france,,6hO6MdoYu6XZfpvLlBQseA8fiCEv,restaurants,linkedin.com/company/salam-namaste,créteil,salam namaste,île-de-france,1-10,salamnamaste94.com
+france,,UVDVaUcg51K6kpC2qQVcCw97jmd6,restaurants,linkedin.com/company/l’escale-du-millénaire,montpellier,l’escale du millénaire,occitanie,1-10,lescaledumillenaire.com
+france,,m1BBUcUwlNgwGQO2o5mveAXZSYE5,restaurants,linkedin.com/company/chez-le-belge,seilh,chez le belge,occitanie,1-10,
+france,,wrJwqf2Yid2pV71LOBqc8wABl0ij,restaurants,linkedin.com/company/sarl-el-manahry,notre-dame-de-la-garenne,sarl el manahry,normandie,1-10,
+france,,WIkYQSWJXx5HKGnYpon75gBa5I67,restaurants,linkedin.com/company/crêpes-4-you,la seyne-sur-mer,crêpes 4 you,provence-alpes-côte d'azur,1-10,crepes4you.fr
+france,,zcKQf4oxvOnjs0M3wcPPjgF66rbZ,restaurants,linkedin.com/company/2j2f,kerbors,2j2f,bretagne,1-10,
+france,,mKSW3P2C0pAN3aMxzNVSDADFeR70,restaurants,linkedin.com/company/dolce-crep,marseille-en-beauvaisis,dolce crep,hauts-de-france,1-10,
+france,,Tj1I3gsbU8OmSdUYnrKA3waPdAth,restaurants,linkedin.com/company/la-petite-croûte,bourg-en-bresse,la petite croûte,auvergne-rhône-alpes,1-10,
+france,,77caFwIQmPbyXOYyaW6UfQTt9iEH,restaurants,linkedin.com/company/pacific-rock-restaurant-cergy,cergy,pacific rock restaurant cergy,île-de-france,1-10,pacificrock.fr
+france,,CzNK1VAwYMwGsV7B2jjCeAVgTc7z,restaurants,linkedin.com/company/restaurant-la-petite-ourse,rennes,restaurant la petite ourse,bretagne,1-10,restaurantlapetiteourse.com
+france,,Z8pFmobQP2u62ljMQmp6Lg1miYo6,restaurants,linkedin.com/company/brasserie-de-la-promenade,cavalaire-sur-mer,brasserie de la promenade,provence-alpes-côte d'azur,1-10,
+france,,6VnrGJxig1p2W5GrbNm5TQBqse0S,restaurants,linkedin.com/company/coworking-coffee-perpignan,perpignan,coworking coffee perpignan,occitanie,1-10,coworking-coffee-perpignan.eatbu.com
+france,,8HBMuZTHQOPvbr82m5fBjg0mO75O,restaurants,linkedin.com/company/1.2.3-delice,le havre,1.2.3 delice,normandie,1-10,
+france,,NxhGIRxdXFNgReIxnr93vAHYSzOC,restaurants,linkedin.com/company/erbey,saint-raphaël,erbey,provence-alpes-côte d'azur,1-10,
+france,,yGyTSqb5Clo4G2LnUpvRnAushVKz,restaurants,linkedin.com/company/restaurant-bar-dancing-divana,cayenne,restaurant bar dancing divana,normandie,1-10,
+france,,jixoFvakA9IiG8k90NSW8QKyU7h7,restaurants,linkedin.com/company/pussy-twister,marseille,pussy twister,provence-alpes-côte d'azur,1-10,
+france,2021,NciPOHRA5uEDZEVGZCru1wlOfkM4,restaurants,linkedin.com/company/le-général-tao,rennes,le général tao,bretagne,1-10,legeneraltao.com
+france,2022,91KYPkEuBURNGMBtX0XQBgiSXEqR,restaurants,linkedin.com/company/tontongrill,montereau-faut-yonne,tonton grill,île-de-france,1-10,tontongrill.com
+france,,7JKeEC60g21ElCiw2SlwhAq5DXfb,restaurants,linkedin.com/company/j&c-shunxin,champs-sur-marne,j&c shunxin,île-de-france,1-10,
+france,,FxZznauEdBdwamMxWLNh8wgLQJDy,restaurants,linkedin.com/company/les-jardins-d’acropolis,rodez,les jardins d’acropolis,occitanie,1-10,acropolis.fr
+france,,FX4qqjiTE8HohASzNbBaqwzvX6Eg,restaurants,linkedin.com/company/les-hammadites,roubaix,les hammadites,hauts-de-france,1-10,leshammadites.fr
+france,,jckvqQ8VbSxABkDdCqCCqgX9wuPP,restaurants,linkedin.com/company/le-bistroquet-sarl,belfort,le bistroquet sarl,bourgogne-franche-comté,1-10,
+france,,CCBPrC6mP2fh1PozBxXCJwgq0Fyo,restaurants,linkedin.com/company/le-comptoir-de-decines,décines-charpieu,le comptoir de decines,auvergne-rhône-alpes,1-10,lecomptoirdedecines.fr
+france,,7A1Rb5iYd3rrhwjFTrCYzQwYiUNR,restaurants,linkedin.com/company/the-market-brewhouse,reims,the market brewhouse,grand est,1-10,themarketbrewhouse.fr
+france,2013,MCxz1OCBN8vqHmWMHe6DBg2l97yZ,restaurants,linkedin.com/company/arty-le-restaurant,paris,arty le restaurant,île-de-france,1-10,artylerestaurant.fr
+france,,qmc6QIjJbzUolNpAnBDD2QHy5aza,restaurants,linkedin.com/company/pastafino,thionville,pastafino,grand est,1-10,pastafino.business.site
+france,1997,Gvt8GzpL9FJVk5kk0ob3WwMgW1BJ,restaurants,linkedin.com/company/creperie-dan-ewen,vannes,crêperie dan ewen - vannes,bretagne,1-10,creperie-danewen.fr
+france,,OExvgjx0aVB1zcyYHELGAAj6mvwL,restaurants,linkedin.com/company/la-terrasse-gourmande,marseille-en-beauvaisis,la terrasse gourmande,hauts-de-france,1-10,
+france,,adVmqY6yVeOMU5p6dMNr8wbJuZZw,restaurants,linkedin.com/company/le-comptoir-de-sylvie,lyon,le comptoir de sylvie,auvergne-rhone-alpes,1-10,
+france,,dBxWuvFQv5P25ZmQ7Fv6eQBA6ZWO,restaurants,linkedin.com/company/café-poussin,paris,café poussin,île-de-france,1-10,
+france,,rDYpZSb4uB74xoovB2UAvQYkJD7e,restaurants,linkedin.com/company/chicken-up,clamart,chicken up,île-de-france,1-10,chicken-up.com
+france,,y1Zpet2zQin670J4znaekglAzsac,restaurants,linkedin.com/company/restaurant-le-mirefleurs-yvrac,yvrac,restaurant le mirefleurs yvrac,nouvelle-aquitaine,1-10,
+france,,vTiTB6nofL0X2Er8cAwXSAwfWVRX,restaurants,linkedin.com/company/sarl-laure,toulon,sarl laure,provence-alpes-côte d'azur,1-10,
+france,,uhtWeT8VCdVcN3gHWgKQHQmMEnbH,restaurants,linkedin.com/company/sarl-damla,corbeil-essonnes,sarl damla,île-de-france,1-10,
+france,,cKxPzhwLo5zxNJcIC2r7mgmVqMrT,restaurants,linkedin.com/company/le-père-ouvrard,le bouscat,le père ouvrard,nouvelle-aquitaine,1-10,
+france,,5uIayimLI6yHrDSsy7S5CgJPiZIC,restaurants,linkedin.com/company/mc-donald’s-brive-la-gaillarde,brive-la-gaillarde,mc donald’s brive-la-gaillarde,nouvelle-aquitaine,1-10,
+france,,alHCvopQB1nrnHYZPpfXHwbpMtKK,restaurants,linkedin.com/company/le-petit-prince-la-seyne,la seyne-sur-mer,le petit prince la seyne,provence-alpes-côte d'azur,1-10,lepetitprincelaseyne.jimdo.com
+france,,Sy6ILJASaMwFlYIBfdZxjQvH2oA9,restaurants,linkedin.com/company/jjm-restauration,porto-vecchio,jjm restauration,corse,1-10,
+france,,yg2csTFF9GCpLh2qfNgIPAustDgn,restaurants,linkedin.com/company/co.ra.co-s.a.r.l.,paris,co.ra.co s.a.r.l.,île-de-france,1-10,
+france,,BDUjTxYlSNrBobDT3bVwVgoLcjWP,restaurants,linkedin.com/company/la-toscane-pizzarestaurant,figeac,la toscane pizzarestaurant,occitanie,1-10,latoscane-pizzarestaurant.business.site
+france,,psBy5T7BSXaZOPAkglx4pAAVUtPu,restaurants,linkedin.com/company/pizzeria-la-maïoun,la gaude,pizzeria la maïoun,provence-alpes-côte d'azur,1-10,pizzeria-la-maioun.business.site
+france,,xlDKj1Mu5j0yvByqpRwIyA3kSV45,restaurants,linkedin.com/company/polar-bear-pub,chalets de l’alpe,polar bear pub,provence-alpes-côte d'azur,1-10,
+france,,4Boi76crmehcnXC0lvWU7QjhBJxv,restaurants,linkedin.com/company/l-ilot-gourmand,île-aux-moines,l ilot gourmand,bretagne,1-10,
+france,2009,pcUoBMo3tQF50G7SfZY5ewaUb7li,restaurants,linkedin.com/company/le-café-du-peintre,lyon,le café du peintre,auvergne-rhone-alpes,1-10,lecafedupeintre.com
+france,,sVHLdi7J18WJieih30yxSgsxPZgw,restaurants,linkedin.com/company/chez-renauld,saint-jean-de-luz,chez renauld,nouvelle-aquitaine,1-10,chezrenauld.com
+france,,1D8ruQnSpPr9INhFLG9wmQBAHDSX,restaurants,linkedin.com/company/baron-sarl,montlouis-sur-loire,baron sarl,centre-val de loire,1-10,
+france,,AGMs82WhVrMiNUv3Pl9rCwfFPKEO,restaurants,linkedin.com/company/restaurant-l'orchidee,étables sur mer,restaurant l'orchidee,bretagne,1-10,
+france,,wCGGat35HCjCiCfZrG4bvwJyNnjW,restaurants,linkedin.com/company/sarl-royal-provence,rognac,sarl royal provence,provence-alpes-côte d'azur,1-10,
+france,,oCjBPWBdnWdNvAMcCJe0CAYPpEwC,restaurants,linkedin.com/company/irish-pub-dad,annecy,irish pub dad,auvergne-rhône-alpes,1-10,
+france,,CFcV13RwYDkfBnPYkBjSjQqFBRIj,restaurants,linkedin.com/company/le-bistrot-a-dede,saint-sorlin-de-vienne,le bistrot a dede,auvergne-rhône-alpes,1-10,
+france,,UtccRNXJcE7ku3PVZAzFmgmu5vkO,restaurants,linkedin.com/company/sarl-la-perle,sainte-luce,sarl la perle,auvergne-rhône-alpes,1-10,
+france,,FNpT8NGEJfvgStIKcVWBRgtrBTc3,restaurants,linkedin.com/company/theatre-de-la-tete-noire,saran,theatre de la tete noire,centre-val de loire,1-10,
+france,,TnswE35XnB5jTLw2UNmkQgi0jW1t,restaurants,linkedin.com/company/le-papaya,hyères,le papaya,provence-alpes-côte d'azur,1-10,
+france,,3cRLXeL3EDlB37FL8dqslAdgxbAy,restaurants,linkedin.com/company/rotisserie-mouginoise,mougins,rotisserie mouginoise,provence-alpes-côte d'azur,1-10,
+france,,Orxg2Z9depai0118ZywX6AOL2Os5,restaurants,linkedin.com/company/le-petit-honfleur,blois,le petit honfleur,centre-val de loire,1-10,
+france,,cI2bKNrDTKfMezuEYeNM2gUd2Yn6,restaurants,linkedin.com/company/bar-du-pont,cazes-mondenard,bar du pont,occitanie,11-50,
+france,,F2C52e7n3tmv7dxgz8BsXAFKAxbo,restaurants,linkedin.com/company/donléo-1973,périgueux,donléo 1973,nouvelle-aquitaine,11-50,donleo1973.fr
+france,,vk5VKBWGYgdnP5QCL2bitQikcPFH,restaurants,linkedin.com/company/happy-paris,paris,happy paris,île-de-france,1-10,happyparis.fr
+france,,5FvLxv7dU9r7yig4R41QeAgDzQv5,restaurants,linkedin.com/company/oum-el-banine,paris,oum el banine,île-de-france,1-10,
+france,,vVNJoN3wDJFVXso0juSIMwx6IXlu,restaurants,linkedin.com/company/sarl-le-falkenstein,philippsbourg,sarl le falkenstein,grand est,1-10,
+france,,o4HpAhUb4dEL45LqrHmZRAAq2WU8,restaurants,linkedin.com/company/thomaso-alain,carmaux,thomaso alain,occitanie,1-10,
+france,1986,TgbMws1GGzMCa1CLbaHY3we08SHB,restaurants,linkedin.com/company/matsuri,paris,matsuri,île-de-france,201-500,matsuri.fr
+france,,Ssc7xk0Ug6y3DRn381KQBgPfF1fB,restaurants,linkedin.com/company/o'miam's,sainte-marie-aux-mines,o'miam's,grand est,1-10,
+france,,MozsWJZTdd8BjCG8SJbFCgktgrQL,restaurants,linkedin.com/company/la-maison-du-vert,le bourg,la maison du vert,occitanie,1-10,
+france,,rYXSFwqoOaXMwkBxTCmkgQmI10jd,restaurants,linkedin.com/company/pate-à-sel,lille,pate à sel,hauts-de-france,1-10,pate-a-sel.fr
+france,,YWk5y6241kCLqxCXLoii4wP8wYwU,restaurants,linkedin.com/company/le-petit-kembs,kembs,le petit kembs,grand est,1-10,lepetitkembs.fr
+france,,zrlRCsmxHPly9P55Q8f4Mgi5f1pb,restaurants,linkedin.com/company/zeliha,rosny-sous-bois,zeliha,île-de-france,1-10,
+france,,DGHWcHEbc9VPkQJjvkpzjQwV3ZcE,restaurants,linkedin.com/company/salumeria-giuppo,marseille-en-beauvaisis,salumeria giuppo,hauts-de-france,1-10,
+france,,HZihFcTRlc7pAKE18SmBcwoP3stc,restaurants,linkedin.com/company/l'ardennais-sd,reims,l'ardennais sd,grand est,1-10,
+france,,qPChHJuGGBcJVO2gwysMjgZuERkU,restaurants,linkedin.com/company/le-florindo,ville-la-grand,le florindo,auvergne-rhône-alpes,11-50,
+france,,tiWWBKNC8elJMYjwdFEzTgr7Z7fQ,restaurants,linkedin.com/company/kioland,carcans,kioland,nouvelle-aquitaine,1-10,
+france,,7F1cqTfw922zO2g5VFulfwYMdar0,restaurants,linkedin.com/company/cgbl,hauteluce,cgbl,auvergne-rhône-alpes,1-10,
+france,,O7YmiFinCi3pFoQiyMl4jA5s1Prf,restaurants,linkedin.com/company/la-loriette,châteaugiron,la loriette,bretagne,1-10,
+france,,YTGfZYMBD1jpW9DABVtBXgjlzu9w,restaurants,linkedin.com/company/le-talon-cache,paris,le talon cache,île-de-france,1-10,letaloncache.fr
+france,,39QxKzSJlXGijhWortdc1AwWanJI,restaurants,linkedin.com/company/sarl-sette-ristorante,rennes,sarl sette ristorante,bretagne,1-10,
+france,,j4as3YkhGXMNW5K0lNn70QwWbil4,restaurants,linkedin.com/company/la-fiancée-du-pirate,la flotte,la fiancée du pirate,nouvelle-aquitaine,11-50,
+france,,HxwgljvtvPlfozgJLEo7BQlfEoLe,restaurants,linkedin.com/company/bistro-la-haut,suresnes,bistro la haut,île-de-france,1-10,bistrolahaut.fr
+france,,A4aWd95xkIe1fxiNnKqIMwWxWHb1,restaurants,linkedin.com/company/las-dunas,angers,las dunas,pays de la loire,1-10,
+france,,K0P72rTv3gTslMmdxUQZbgQ5H771,restaurants,linkedin.com/company/restaurant-la-crespinette,crespin,restaurant la crespinette,hauts-de-france,1-10,
+france,,BqqNpSbTJLJg8fOCi8QgtQszqIre,restaurants,linkedin.com/company/la-caprese,paris,la caprese,île-de-france,1-10,
+france,,JHk9UzEMFMAB89B0bJH0rAgkh9XL,restaurants,linkedin.com/company/rmaily,paris,rmaily,île-de-france,1-10,
+france,,dAbE893nMAd2I0lyDl8Cig8Z5lUM,restaurants,linkedin.com/company/cambridge-pub,bordeaux,cambridge pub,nouvelle-aquitaine,1-10,
+france,,EVTrnMkwjaXG7xoweeUW0gvPct5s,restaurants,linkedin.com/company/lou-trambalan,nice,lou trambalan,provence-alpes-côte d'azur,1-10,
+france,,GMOeUbxtNDNuorGi3CTMhQaydLj1,restaurants,linkedin.com/company/abj-limited-toulon,la valette-du-var,abj limited toulon,provence-alpes-côte d'azur,1-10,
+france,2018,vmDZnBPaZUnyhprVcVeidgRBea0D,restaurants,linkedin.com/company/les-ptits-potes,paris,les p'tits potes,île-de-france,1-10,ptitspotes.fr
+france,,QKoxG4xxBCcMZPRn5V8GOwC1prkq,restaurants,linkedin.com/company/le-palais-oriental,montauban,le palais oriental,occitanie,1-10,
+france,,q6ZVBJyzdlnnmqyDGQHApAD8mXXu,restaurants,linkedin.com/company/le-blue-80,saint-genis-laval,le blue 80,auvergne-rhône-alpes,1-10,
+france,,UbkzWFWgjqFlMnm22ldfmgWL1bFO,restaurants,linkedin.com/company/le-saint-philibert,charlieu,le saint philibert,auvergne-rhône-alpes,1-10,
+france,,6XndzXhzxBX23oAstLwMAgBQN468,restaurants,linkedin.com/company/burger-n-co-st-aubin,toulouse,burger n'co st aubin,occitanie,1-10,
+france,,aj8yeUBWofpirLuEVYiLawQSzCgX,restaurants,linkedin.com/company/le-clémenceau,courbevoie,le clémenceau,île-de-france,1-10,
+france,,zEIZtKS5SCiWXB9nn060Ww7XdCHE,restaurants,linkedin.com/company/l'escargot-montorgueil-sarl,paris,l'escargot montorgueil sarl,île-de-france,11-50,
+france,,5RorWk4BzeZIIihLbgjISQfLtHhF,restaurants,linkedin.com/company/centre-culturel-jacques-prévert,villeparisis,centre culturel jacques prévert,île-de-france,1-10,
+france,,nxhGM4He6HYNmvZYyPp1tgZvxGRY,restaurants,linkedin.com/company/courdo,béziers,courdo,occitanie,1-10,
+france,,m2vDUddmXf2vvnfw7qax5AUbIHyP,restaurants,linkedin.com/company/agapitos,rue,agapitos,hauts-de-france,1-10,
+france,,f7FdJkVmBGJvrDKo7U21nQBuFLNR,restaurants,linkedin.com/company/le-st-marcell'inn,saint-marcellin,le st marcell'inn,auvergne-rhône-alpes,1-10,
+france,,pWwb4KkN0yzTRMAYDeTMvg21NhT3,restaurants,linkedin.com/company/boucherie-gaye,mont-de-marsan,boucherie gaye,nouvelle-aquitaine,1-10,
+france,,5LjaHgcU4AQ8tpBuPn7jHgVKvM2x,restaurants,linkedin.com/company/bi-bim-bap,lille,bi bim bap,hauts-de-france,1-10,
+france,,xcGzem9TzIlgm0p5pPH82Acg2959,restaurants,linkedin.com/company/robert-hersant,ivry-la-bataille,robert hersant,normandie,1-10,hotel-golf-parc.com
+france,,9CRoOQUCv8vmKMnCAHeQZAmNhFsP,restaurants,linkedin.com/company/lac-casa,annecy,lac casa,auvergne-rhône-alpes,1-10,
+france,,tyKSL851vTgKbnVcDWEPKAto2XfW,restaurants,linkedin.com/company/restaurant-de-la-vieille-auberge,le bourg,restaurant de la vieille auberge,occitanie,1-10,
+france,,ZtqxDB3zoV0K2NdBrLvTIAGZSo7q,restaurants,linkedin.com/company/sarl-bkbe,le thoronet,sarl bkbe,provence-alpes-côte d'azur,1-10,
+france,,UwI5lVIqfseNV2dlFLs2bAyGh07N,restaurants,linkedin.com/company/s.a.r.l.-c,courbevoie,s.a.r.l. c,île-de-france,1-10,
+france,,a4zuRTrRZqhlDbSB92vwQgdpNBGL,restaurants,linkedin.com/company/le-petit-paul,rouen,le petit paul,normandie,1-10,
+france,,0OhgcmNGjFdVTIdMP0B1YAanud4x,restaurants,linkedin.com/company/le-restaurant-des-amis,le bourg,le restaurant des amis,occitanie,1-10,restaurant-des-amis-moncy.fr
+france,,v57h3UvMqcKH4BYCOBCGlwmVdaO1,restaurants,linkedin.com/company/nawar,antony,nawar,île-de-france,1-10,
+france,,BEr2crCFNnqLetbmHpSWjgK9TJqh,restaurants,linkedin.com/company/sarl-le-bien-aller,le mans,sarl le bien aller,pays de la loire,1-10,
+france,,NGxICbJPciSDUBuu9T57MQRmldos,restaurants,linkedin.com/company/fesquet,anduze,fesquet,occitanie,1-10,
+france,,hJTR7CsbS8va9EmqCmsVYQ8oDlNO,restaurants,linkedin.com/company/l’abribus-café,paris,l’abribus café,île-de-france,1-10,
+france,,HPBDZmu8EhxoDejMzTx1jAUEYjW8,restaurants,linkedin.com/company/tay-dô,lannion,tay dô,bretagne,1-10,
+france,,YCqauzazzBCjpDxlxkuDGQFmOJNw,restaurants,linkedin.com/company/lion-bar-94,vitry-sur-seine,lion bar 94,île-de-france,1-10,
+france,,Kp1nhjnUBzHSkBsTP2penw78sYAZ,restaurants,linkedin.com/company/abbatiale-sarl,saint-philbert-de-grand-lieu,abbatiale sarl,pays de la loire,1-10,
+france,,jo3gOEUFmXEFfOB5ccEezQrko7rD,restaurants,linkedin.com/company/café-martini,viala-du-pas-de-jaux,café martini,occitanie,1-10,cafemartini.fr
+france,,5XNKLthw52MFz5h3vCXyXw7klwBe,restaurants,linkedin.com/company/ma-yucca,nice,ma yucca,provence-alpes-côte d'azur,1-10,mayucca.fr
+france,,JKuDHHwPCCqUmbcNMvq8Bgpt9Y5u,restaurants,linkedin.com/company/casa-peppironi,saint-gratien,casa peppironi,île-de-france,1-10,
+france,2017,u5mVBnoV2GwyY5M8BLjnXQSCscZs,restaurants,linkedin.com/company/le-pream-bulles,royan,le pream'bulles,nouvelle-aquitaine,1-10,
+france,,p6xZcqA8xfaqipXpmIvaBwUiHnCx,restaurants,linkedin.com/company/sushi-mark,villeparisis,sushi mark,île-de-france,1-10,
+france,,wsCFluq6cJSqNMF7ybeKPg7a8Rav,restaurants,linkedin.com/company/la-del-fine,saint-hippolyte-du-fort,la del fine,occitanie,1-10,
+france,,9tb90IlXLKRq2NqCr0kT7AKQ6hpZ,restaurants,linkedin.com/company/l’auberge-du-pêcheur,lisieux,l’auberge du pêcheur,normandie,1-10,
+france,,Hrihs7tr9NEdRphxug4hHg9Zte4H,restaurants,linkedin.com/company/sarl-alpha-repas-service,mane,sarl alpha repas service,provence-alpes-côte d'azur,1-10,
+france,,4fCgI0kBwdKEOiI4gBSs4go0l5FU,restaurants,linkedin.com/company/la-poterne,rouffach,la poterne,grand est,1-10,
+france,,ASuofYyXLJBDp4Q1NBaRCwmJaekI,restaurants,linkedin.com/company/alv-sarl,paris,alv sarl,île-de-france,1-10,
+france,,TBeked7J21CXojB7F4pkCAr9WAGk,restaurants,linkedin.com/company/l'exploit,bordeaux,l'exploit,nouvelle-aquitaine,1-10,
+france,,JaRWB92lKaYKV5adGEJRDgxQea5Y,restaurants,linkedin.com/company/aemf,toulouse,aemf,occitanie,1-10,
+france,,g1eOa2PMnmB3QPcCYt2wUgxps5Fq,restaurants,linkedin.com/company/la-siberienne,aix-les-bains,la siberienne,auvergne-rhône-alpes,1-10,
+france,,Jshi1JQCeNl3BQOhWjcBCAK0Y0UC,restaurants,linkedin.com/company/pur’---jean-françois-rouquette,paris,pur’ - jean-françois rouquette,île-de-france,1-10,
+france,,zdkWo8gDwCn0BgLnSlhRTgEjACXB,restaurants,linkedin.com/company/sarl-le-saint-maurice,la rochelle,sarl le saint maurice,nouvelle-aquitaine,1-10,
+france,,fFAeyMATsqMzVVyPaEnYCwsZfbRi,restaurants,linkedin.com/company/la-table-de-la-fontaine,cotignac,la table de la fontaine,provence-alpes-côte d'azur,1-10,
+france,,dCrcGOhDdNLMLU5VKfWFPgbDqXuP,restaurants,linkedin.com/company/sarl-les-flambeurs,rue-de-la-halle,sarl les flambeurs,grand est,1-10,
+france,,YweUZcSN5eRtIgkrPd7TPgBOptI3,restaurants,linkedin.com/company/tifrit,le pré-saint-gervais,tifrit,île-de-france,1-10,
+france,,vZWZJ9k7lFfoJcifKOX1ewAYiMop,restaurants,linkedin.com/company/durraz-simone,lyon,durraz simone,auvergne-rhone-alpes,1-10,
+france,,BR26oBOzS1bxdzMiSLDvwQHdOebJ,restaurants,linkedin.com/company/théâtre-municipal-de-bar-le-duc,bar-le-duc,théâtre municipal de bar le duc,grand est,1-10,
+france,,TcTMEHpvD6XDKy5cdKceDAe1jStc,restaurants,linkedin.com/company/wine-&-soul,bordeaux,wine & soul,nouvelle-aquitaine,1-10,
+france,2002,HCo9RDUymDrnZQeIyYdzEQZmcpUn,restaurants,linkedin.com/company/tiger-wok-expansion,lyon,tiger wok,auvergne-rhone-alpes,51-200,tigerwok.com
+france,,4l0IjESk7aXdXeYM5sTI6Qa1gmuw,restaurants,linkedin.com/company/au-marquis-de-terme,margaux,[au] marquis de terme,nouvelle-aquitaine,11-50,au-marquis-de-terme.com
+france,,huKA1CmQZpDRT8gdKNWA0A2YvulG,restaurants,linkedin.com/company/les-libanais,bordeaux,les libanais,nouvelle-aquitaine,1-10,leslibanaisbordeaux.fr
+france,,BCNxJVmVBjAAlpCWvNUPkQC5Sh9i,restaurants,linkedin.com/company/le-radeau,montpellier,le radeau,occitanie,1-10,
+france,,heopQgxrUIqdpTDrEwWuOQccMFsp,restaurants,linkedin.com/company/assiette-au-boeuf-arras,,assiette au boeuf arras,,1-10,
+france,,1O0Ybwoi6HsPo1dPjxiRtQbyDz9F,restaurants,linkedin.com/company/sarl-l'agora,rouffigny,sarl l'agora,normandie,1-10,
+france,,UCHpyl1tM7PJhf2xqt6I1wtvfaUP,restaurants,linkedin.com/company/crepy's,valenciennes,crepy's,hauts-de-france,1-10,
+france,,pBl1fosJc59e2eK9AsMFdwIV6Ttq,restaurants,linkedin.com/company/h-and-h-restauration,bezons,h and h restauration,île-de-france,1-10,
+france,,cCwc7S6pbCtfGd045XMSTgSdGBpi,restaurants,linkedin.com/company/le-vinivore,agen,le vinivore,nouvelle-aquitaine,1-10,vinivore.fr
+france,,7CpMT7dHK4Og7MLdhEXs6gCbUDXP,restaurants,linkedin.com/company/adm-trust,décines-charpieu,adm trust,auvergne-rhône-alpes,1-10,
+france,,9mHhkzHsRMWWaOdMSCuBggoiYwZJ,restaurants,linkedin.com/company/l-2-g-sarl,mulhouse,l 2 g sarl,grand est,1-10,
+france,,thCpfeJLOvzhgYruTh4VGQlnI3s9,restaurants,linkedin.com/company/la-liodière,saint-jean-de-monts,la liodière,pays de la loire,1-10,
+france,,XwXwiR25l0AQgHdC2BezfwFqHf0F,restaurants,linkedin.com/company/les-12-apôtres,montluçon,les 12 apôtres,auvergne-rhône-alpes,1-10,
+france,,XztFR59n6AnN7tC8JzjAEQQ2C1sB,restaurants,linkedin.com/company/le-beyel,origné,le beyel,pays de la loire,1-10,
+france,,pdMF6hwpZ2AjUSS3Tnr4LAmoxgnE,restaurants,linkedin.com/company/douro-sul,paris,douro sul,île-de-france,1-10,
+france,,Ljh5gNA2qQy9GOpIt6VKtg15viZq,restaurants,linkedin.com/company/maison-dubedat,bordeaux,maison dubedat,nouvelle-aquitaine,1-10,
+france,2021,4A6yImICvE3L8oDI6aTnRAwjG7iM,restaurants,linkedin.com/company/joys-group,villeurbanne,joys group ®️,auvergne-rhône-alpes,51-200,
+france,,OvXbqvrAualCKWHYxISrSgqGjXxp,restaurants,linkedin.com/company/cho-cantine,paris,cho cantine,île-de-france,1-10,
+france,,oDCQtAKu56BJnnYUR6C8xgbO3zzj,restaurants,linkedin.com/company/la-compagnie-francaise,toulouse,la compagnie francaise,occitanie,11-50,la-compagnie-francaise.fr
+france,,TBBCPKxcs0FlJ6cuNbEMtAZQwpws,restaurants,linkedin.com/company/princess-elizabeth,dunkerque,princess elizabeth,hauts-de-france,1-10,princesselizabeth.eu
+france,,RGByhptEF9jpcMzIBz0OxQMQybKG,restaurants,linkedin.com/company/le-rg,clohars-carnoët,le rg,bretagne,1-10,
+france,,8UfN0hfGbRYnPki5dh50EQ2LuxmX,restaurants,linkedin.com/company/pizza-news,sevran,pizza news,île-de-france,1-10,
+france,,r6IdhdPuekmOR1kx7bTAXgntmWg0,restaurants,linkedin.com/company/sarl-ft2,compiègne,sarl ft2,hauts-de-france,1-10,
+france,,WAxMGFf4ePYAzsNWrFqNfQscUpgg,restaurants,linkedin.com/company/la-belle-ronde,paris,la belle ronde,île-de-france,1-10,
+france,,0kKz4ErIkkBBgIaNxV6aiQYfWCsJ,restaurants,linkedin.com/company/resto-gogo,marseille-en-beauvaisis,resto gogo,hauts-de-france,1-10,
+france,,ZLVDpkjdhq4eGsSDkGk5QQzKtQJG,restaurants,linkedin.com/company/u-ricantu,calvi,u ricantu,corse,1-10,
+france,,mX3EgMHAg4wSk09E7EFksAcrpG1R,restaurants,linkedin.com/company/baroom,paris,baroom,île-de-france,1-10,
+france,2008,CuT4kEHdC31YazzfYVYevAtSvly3,restaurants,linkedin.com/company/wittmann-brand-le-resto,mulhouse,wittmann brand le resto,grand est,1-10,achat-sud-alsace.com
+france,2021,u1oNfXbNCsCjJCwYlxcxnQdYm2Rg,restaurants,linkedin.com/company/le-glaz-kantine-bretonne,lille,"le glaz, kantine bretonne",hauts-de-france,1-10,fr.ulule.com/le-glaz-kantine-bretonne
+france,,yogmXSYFdHithGuRdCJmBQkAIJiX,restaurants,linkedin.com/company/plage-des-salins,saint-tropez,plage des salins,provence-alpes-côte d'azur,1-10,lessalins.com
+france,,zB1kJxNGzRbCr0Q0iBquTQrraPcr,restaurants,linkedin.com/company/antep-doner-kebab,colmar,antep doner kebab,grand est,1-10,
+france,,m97Eli37uvrZ08Tx3fvpDAapKWBn,restaurants,linkedin.com/company/yabio-garet,lyon,yabio garet,auvergne-rhone-alpes,1-10,
+france,,8omEWHITxh9AGiBTlm6Z7g5xNYc1,restaurants,linkedin.com/company/itachi,villarodin,itachi,auvergne-rhône-alpes,1-10,
+france,,hB98BUDghSja1jQ7KPQZPw6cyj6j,restaurants,linkedin.com/company/l-‘embarcader,poueyferré,l ‘embarcader,occitanie,1-10,
+france,,vypKQtCliCTUZ2FQCm3mYQGGYoPH,restaurants,linkedin.com/company/la-bontendrie,paris,la bontendrie,île-de-france,1-10,
+france,,TSnSWCxL3KznbnbUABCBoQaZzsWS,restaurants,linkedin.com/company/candy-ice,gruissan,candy ice,occitanie,1-10,
+france,,RSgJvMJSjcC8BRKkFZ6HrQ9R5VbZ,restaurants,linkedin.com/company/komalakaz,villeurbanne,komalakaz,auvergne-rhône-alpes,1-10,komalakaz.fr
+france,,bLE8XENUlUnXzzIu7g8CBwDB2ojD,restaurants,linkedin.com/company/chez-freddy-nice,nice,chez freddy nice,provence-alpes-côte d'azur,11-50,
+france,2023,sy5Frm91A5VBUMpM9gfRow90ubRa,restaurants,linkedin.com/company/ferni-antibes,saint-germain-de-la-grange,ferni antibes,île-de-france,11-50,ferniantibes.fr
+france,,gm05LxogETAXNtVvN5qycw4Nlw18,restaurants,linkedin.com/company/melkonyan,lyon,melkonyan,auvergne-rhone-alpes,1-10,
+france,,LJwY2i4UjFcFLYI8Q9CVjAnww85O,restaurants,linkedin.com/company/bistro-le-31,marseille-en-beauvaisis,bistro le 31,hauts-de-france,1-10,
+france,2015,Cm6bkwhlkDK2ZqQ09eJgzgH1ujee,restaurants,linkedin.com/company/amore-e-fantasia,levallois-perret,amore e fantasia,île-de-france,1-10,amoreefantasia.com
+france,,MQ6eHlA79mhwB0IqZa8TCwZ0JQXh,restaurants,linkedin.com/company/churrasqueira-terra-quente,brive-la-gaillarde,churrasqueira terra quente,nouvelle-aquitaine,1-10,
+france,,G0xUBF5lD2T7wZqZ56N4DQQLrioy,restaurants,linkedin.com/company/les-passionnés,toulouse,les passionnés,occitanie,1-10,lespassionnes-toulouse.com
+france,,P2AMDK2EiYCoxreBlJ8r0QeZWYe6,restaurants,linkedin.com/company/creperie-bruno,vitry-sur-seine,creperie bruno,île-de-france,1-10,
+france,,utKBZGG0ySTtHuxYUx2zzwt0ZUax,restaurants,linkedin.com/company/sarl-le-tourdion,roanne,sarl le tourdion,auvergne-rhône-alpes,1-10,
+france,,oyrO7lTdm40TBCJS7hZSoQ6n9wtN,restaurants,linkedin.com/company/da-cinzia,nanterre,da cinzia,île-de-france,1-10,
+france,,rT9jhEInBcbpkV0DhKHkIQQm9SEw,restaurants,linkedin.com/company/madame-léon,toulouse,madame léon,occitanie,1-10,madameleon.fr
+france,2020,1gwZRNp6vWuJgy7ez8iNPQjy2PLz,restaurants,linkedin.com/company/pretre-invest,champrépus,restaurant le moulin,normandie,11-50,lemoulindebeauchamps.com
+france,2017,PALQDCxWBvCUwSiCe1wfkwdH0x7t,restaurants,linkedin.com/company/feuparis,paris,feu,île-de-france,1-10,feu.paris
+france,,6X1RERZ7p0qxYpYhGZ7vOQtbRR42,restaurants,linkedin.com/company/roll-trotter,courbevoie,roll trotter,île-de-france,1-10,
+france,,37BnS4gCsyJ6JPgQ7VQE6AwPsAYn,restaurants,linkedin.com/company/miko-sushi-sarl,nice,miko sushi sarl,provence-alpes-côte d'azur,1-10,
+france,,F9B13Mjfuy1Aww8jAw5OEwrMVOG4,restaurants,linkedin.com/company/brury,montrouge,brury,île-de-france,1-10,
+france,,zwWzP9SOZGMx91MXyfj5BA50iBNp,restaurants,linkedin.com/company/saïgon-house,paris,saïgon house,île-de-france,1-10,
+france,,Qg5TOCThuBZBnyBIB2QGWweadoGn,restaurants,linkedin.com/company/la-butinais,bain-de-bretagne,la butinais,bretagne,1-10,
+france,,Sq05HCkzaK0XKY44ST3HoQdDV3Xf,restaurants,linkedin.com/company/amadeus-café,,amadeus café,centre,1-10,
+france,2005,Su3Hq8qALeqKeEUt1CDFPQSocpG4,restaurants,linkedin.com/company/naïbrasserie,paris,naï brasserie,île-de-france,1-10,nai-brasserie.fr
+france,,pEVexaNri2jlsXSLCoECvQckhcdv,restaurants,linkedin.com/company/sarl-frema,hyères,sarl frema,provence-alpes-côte d'azur,1-10,
+france,,kkY0bcvHSnKBgrSBZcOYkAas41W0,restaurants,linkedin.com/company/komo-maï-poke,bordeaux,komo maï poke,nouvelle-aquitaine,1-10,komomaipoke.fr
+france,,fhOwBsgLrVSJzgjOmztpuAm0tFd1,restaurants,linkedin.com/company/casa-giorgio,paris,casa giorgio,île-de-france,1-10,
+france,,DcR1NsFLR7wKOCNE4mT1GQCI4Gki,restaurants,linkedin.com/company/le-coste,versailles,le coste,île-de-france,1-10,
+france,,DuSWPpo8UUBKbBPBaHfh1AyNUfis,restaurants,linkedin.com/company/le-salignon,vesdun,le salignon,centre-val de loire,1-10,lesalignon.com
+france,,M4pDeiPBZ6cPYdZVTixqGQCAjTR0,restaurants,linkedin.com/company/kom'à-la-maison,paris,kom'à la maison,île-de-france,1-10,
+france,,JFgC5gDQriyAoqivUZI4CQ6b0SxM,restaurants,linkedin.com/company/sucré-salé-traiteur,notre-dame-d’oé,sucré salé traiteur,centre-val de loire,1-10,sucresaletraiteur.fr
+france,,9x0QIxEAJoB7OhyE6elBFQFHwYOB,restaurants,linkedin.com/company/ma-coumba,l’isle-sur-la-sorgue,ma-coumba,provence-alpes-côte d'azur,1-10,
+france,,5zs7ublZGFJ2rGf8tHz1jQHMTk6S,restaurants,linkedin.com/company/angelo-pizzeria,berck-sur-mer,angelo pizzeria,hauts-de-france,1-10,
+france,,rGqVmjJ8dtxGfv9bTO1qAwueII6x,restaurants,linkedin.com/company/ati-sushi,pinsaguel,ati sushi,occitanie,1-10,atisushi.com
+france,,c5Ff4waLgMPWCWUyO1ESVg1GKubL,restaurants,linkedin.com/company/restaurant-balzac,villeurbanne,restaurant balzac,auvergne-rhône-alpes,1-10,
+france,,Uo7TVqG0YLsxZKbFPX6OnwL6VuSb,restaurants,linkedin.com/company/lmnco,strasbourg,lmnco,grand est,1-10,
+france,,CvtlPof0jajyq3gRigaTSA9vf6hG,restaurants,linkedin.com/company/sarl-luc,saint-ferriol,sarl luc,occitanie,1-10,
+france,,EGmvyFmwmdxMqUcpp0YXSwseTe1j,restaurants,linkedin.com/company/brasserie-bérangère,les contamines-montjoie,brasserie bérangère,auvergne-rhône-alpes,1-10,
+france,,ql3JtMK4JvwWyqxrzbPm0QfhCQ7u,restaurants,linkedin.com/company/sas-elixir,le mée-sur-seine,sas elixir,île-de-france,1-10,
+france,,bGMgjH8KJVjXDMDC6Jq04gjuRIej,restaurants,linkedin.com/company/bel-azur,jaux,bel azur,hauts-de-france,11-50,
+france,,IdfWE9hsAY5Fng6BoFSrbQATRrD9,restaurants,linkedin.com/company/restaurant-du-loup,bordeaux,restaurant du loup,nouvelle-aquitaine,1-10,
+france,,wRzCQgSCJsvMl3C815q4Jg3ep63c,restaurants,linkedin.com/company/le-divan-du-monde,paris,le divan du monde,île-de-france,1-10,
+france,,lgqDZpRaCkepyiseiDIglQOh2vYi,restaurants,linkedin.com/company/ristorante-republica-italia,saint-germain-de-la-grange,ristorante republica italia,île-de-france,1-10,
+france,,7QmTINy7j0aS53wbQdHB4warNZCM,restaurants,linkedin.com/company/eat-couscous,esbly,eat couscous,île-de-france,1-10,takitraiteur.com
+france,,oHnJFYB21SEI6mQw1fkWkgulFdHC,restaurants,linkedin.com/company/le-massale,,le massale,,1-10,
+france,2013,PvqZCcIcvM2Is4nzO3lHZgdxA8f7,restaurants,linkedin.com/company/dans-votre-petite-cuisine,montigny-le-bretonneux,dans votre petite cuisine,île-de-france,1-10,dansvotrepetitecuisine.fr
+france,,6qhHHbAImGI3ShuIkYNJIA4gNDwJ,restaurants,linkedin.com/company/le-chabrol,la teste-de-buch,le chabrol,nouvelle-aquitaine,1-10,
+france,,1yR0Am9ECxgd7C9RWXocpAqkaeEo,restaurants,linkedin.com/company/casa-burritos,amiens,casa burritos,hauts-de-france,1-10,
+france,,HNe8ZArBBmpcraQz6FzLBQLaI0u9,restaurants,linkedin.com/company/r2-fete,le pont-de-planches,r2 fete,bourgogne-franche-comté,1-10,r2fete.fr
+france,,ECbTNnNAqgbim9a6HGqCcgCBI5vC,restaurants,linkedin.com/company/alakik,arras,alakik,hauts-de-france,1-10,
+france,,ciBMdpYVvgwfiyiwcBs6qwIriJ5C,restaurants,linkedin.com/company/pivalyon,villeurbanne,pivalyon,auvergne-rhône-alpes,1-10,
+france,,96rZSR0UQjDXL9qOMAls7wG9OGO9,restaurants,linkedin.com/company/kashmala,paris,kashmala,île-de-france,1-10,
+france,,utCjpdbOOjVnahWyYMrZ6AotkRjo,restaurants,linkedin.com/company/bangkok-thaïlande,paris,bangkok thaïlande,île-de-france,1-10,
+france,,YrBQdMx3CrwrH9Lq6EmkAgztEuHF,restaurants,linkedin.com/company/boulibar,nogent-sur-marne,boulibar,île-de-france,1-10,
+france,,HtfFlLzEjRfZ6p1EjbTJgwRt9UW1,restaurants,linkedin.com/company/resto-viva,rue de chorette,resto viva,hauts-de-france,1-10,
+france,,jP4sFTf9NYpSNCrd77YwPwleJLcY,restaurants,linkedin.com/company/restaurant-le-dauphin,la ferté-bernard,restaurant le dauphin,pays de la loire,1-10,restaurant-du-dauphin.com
+france,,XaBiDS4IiEUlITpqmDuGVwy0Hx9s,restaurants,linkedin.com/company/auberge-du-port,guilvinec,auberge du port,bretagne,1-10,
+france,,1mn2fEqxq9CpuQovkmsQDQHo9jly,restaurants,linkedin.com/company/lsgboireetmanger,annemasse,lsg les sales gosses,auvergne-rhône-alpes,11-50,facebook.com/lessalesgossesannemasse
+france,,xwxfBvTE7UDgwBWDUc3uswwnroNd,restaurants,linkedin.com/company/sas-ronjon,la roche-bernard,sas ronjon,bretagne,1-10,
+france,2018,RpleBOQvFFfB8iCFQEeaBwYbEhsk,restaurants,linkedin.com/company/maison-sunsun,rue,maison sunsun,hauts-de-france,51-200,sunsetcafelacanau.com
+france,,RW3QifXgp2ZQBh3Z6HAq4wqxxi1E,restaurants,linkedin.com/company/lam-hao,la villette,lam hao,centre-val de loire,1-10,
+france,,UYUiY1MyCDhXVm1QI02JaQEnLXhC,restaurants,linkedin.com/company/eurl-gel,dinard,eurl gel,bretagne,1-10,
+france,,FPicWJeYVy7RqaKs5qBS4AvH1ezQ,restaurants,linkedin.com/company/les-oliviers-restaurant,agen,les oliviers,nouvelle-aquitaine,11-50,
+france,,zgjbHUHHCJqGpjSZsGiKMwK9E9eh,restaurants,linkedin.com/company/les-rives-du-nil,paris,les rives du nil,île-de-france,1-10,
+france,,uKIhwLvT6nRTeXoSHB0MzgvyNQbm,restaurants,linkedin.com/company/les-terrasses-du-pilori,thors,les terrasses du pilori,nouvelle-aquitaine,1-10,
+france,,SXwePBChxopgC7Ys36uJJArdCnor,restaurants,linkedin.com/company/restaurant-orsi-pierre,lyon,restaurant orsi pierre,auvergne-rhone-alpes,1-10,
+france,,CJhzeIDLUCvf9wStGQ8mVwzgPl9C,restaurants,linkedin.com/company/nomade-cafe,paris,nomade cafe,île-de-france,1-10,
+france,,qGaQ5f75ebiarIBOojcqUAdFwZhB,restaurants,linkedin.com/company/nagoya-2,colmar,nagoya 2,grand est,1-10,
+france,,LhkpKTlLC2gkLVChPbByjgmOKIO8,restaurants,linkedin.com/company/tanakhi-sushi,villeurbanne,tanakhi sushi,auvergne-rhône-alpes,1-10,
+france,,P4CSFXiu2RrRjiAeuviBUQtM7ZMG,restaurants,linkedin.com/company/sasu-le-lido-la-ciotat,la ciotat,sasu le lido la ciotat,provence-alpes-côte d'azur,1-10,
+france,,6aEVHpY0PNn06rKccKY2fw6ugEcY,restaurants,linkedin.com/company/auberge-de-conol,verrières-en-forez,auberge de conol,auvergne-rhône-alpes,1-10,auberge-deconol.fr
+france,,tRpOOjtYJBamyEGigeFLCwfNIjPM,restaurants,linkedin.com/company/soph-tea,villeneuve-saint-georges,soph tea,île-de-france,1-10,
+france,,ZnU95BdqIN2k2qhGoy5oAQw5sRvn,restaurants,linkedin.com/company/tdc-audomarois,saint-omer,tdc audomarois,hauts-de-france,1-10,
+france,,U2HPAF43uEdDj7KWzgZgBg5lVsUE,restaurants,linkedin.com/company/frenchy-factory,melun,frenchy factory,île-de-france,1-10,
+france,,vgSBkSWSH7cPeBAtM7AK6gW8MPVi,restaurants,linkedin.com/company/haendel,ermont,haendel,île-de-france,1-10,haendel.fr
+france,,R4meoB0XMt2AHq3DCFXcBwqA7HoB,restaurants,linkedin.com/company/les-lézards,le frasnois,les lézards,bourgogne-franche-comté,1-10,
+france,,bmRqGYf1JU3rhJBs8IDCNArNfrSQ,restaurants,linkedin.com/company/sushiroll,toulon,sushiroll,provence-alpes-côte d'azur,1-10,
+france,,QwlnWzWCPgbLhq2LOBzXpwKjuTAJ,restaurants,linkedin.com/company/bar-le-trianon,villiers-sur-marne,bar le trianon,île-de-france,1-10,
+france,,OPlTBKSOiy2pwbMNXuZqFAYt9AXW,restaurants,linkedin.com/company/restaurant-le-vancouvert,hauteluce,restaurant le vancouvert,auvergne-rhône-alpes,1-10,restaurant-le-vancouvert.business.site
+france,,t48Gwbx8uJT1TUToGWBCNgrqDGcp,restaurants,linkedin.com/company/le-petit-qg,jouques,le petit qg,provence-alpes-côte d'azur,1-10,
+france,,m2MfvUlSf9WMpfJevII0ZAiCerco,restaurants,linkedin.com/company/aux-oubliettes,haguenau,aux oubliettes,grand est,1-10,auxoubliettes.fr
+france,,pfCpBd7S0AWGNt9ohsQoMgF2woN5,restaurants,linkedin.com/company/marie-f.,paris,marie f.,île-de-france,1-10,marie-f.com
+france,,mvHovIU9T8PKmuv2XnPojQQ74N20,restaurants,linkedin.com/company/rosataparis,paris,rosata - focaccia gourmande,île-de-france,1-10,rosata.fr
+france,,F8Pa3nIQ5ANjnB5YNfBvPwkrMLEo,restaurants,linkedin.com/company/le-cocagne,pont-l’abbé,le cocagne,bretagne,1-10,lecocagne.net
+france,,KnywZw8zxoBm5Gcs4hScpgzwPVcn,restaurants,linkedin.com/company/sarl-hamza,châteauroux,sarl hamza,centre-val de loire,1-10,
+france,,zj8hxX4RMObqIjXDz5gOwAd47fAI,restaurants,linkedin.com/company/eurl-le-chalet,pressac,eurl le chalet,nouvelle-aquitaine,1-10,
+france,,4I7Ck4VI2F0jyxJeiWKKcwGAsNFZ,restaurants,linkedin.com/company/karrika,saint-lary-soulan,karrika,occitanie,1-10,
+france,,Bgt66xWC0iena69NNx9XXgNrjsRB,restaurants,linkedin.com/company/la-brasserie-des-chartrons,bordeaux,la brasserie des chartrons,nouvelle-aquitaine,1-10,
+france,,0tsFuaY8D1M4BbTRrc9w0QVevBrg,restaurants,linkedin.com/company/m-p-gourmandises,paris,m p gourmandises,île-de-france,1-10,
+france,,rFCCDwbsw2SftjZWVdUt8A8XPyCH,restaurants,linkedin.com/company/estelo,vieille-église,estelo,hauts-de-france,1-10,
+france,,hE5bDR0A2yN5MLCbJPYU5gWNcGiu,restaurants,linkedin.com/company/sas-dld,agde,sas dld,occitanie,1-10,
+france,,66sm1qKVhyirdmWXOEmmnAyzZ3V6,restaurants,linkedin.com/company/demain-et-ailleurs,paris,demain et ailleurs,île-de-france,1-10,demainetailleurs.com
+france,2016,Bs3gLMrBHdOdNdViRmUw2QewHRxa,restaurants,linkedin.com/company/boca-bar-y-tapas-espanolas,toulouse,boca - bar y tapas españolas,occitanie,1-10,boca-toulouse.fr
+france,,K9LptI6bcTxfW1Bx7Kij8w3jgMiI,restaurants,linkedin.com/company/le-sporting-vichy,bellerive-sur-allier,sporting vichy,auvergne-rhône-alpes,11-50,sportingvichy.com
+france,,JsqwLgtOkxTrwpNmq18KewKSybNU,restaurants,linkedin.com/company/bar-le-derby,le mans,bar le derby,pays de la loire,1-10,pmu-fdj-bar-le-derby.business.site
+france,,HBBzNWioNEHzCnCdWBRxyAOKN3X6,restaurants,linkedin.com/company/le-chalet-de-magali,chaffois,le chalet de magali,bourgogne-franche-comté,1-10,
+france,,Ylq8aqxaD3eB1zUx5bMsfwozC9pE,restaurants,linkedin.com/company/cine-ke,paris,cine ke,île-de-france,1-10,
+france,,8tgFJLPxFxCh7sR9ME9BkgKlRgot,restaurants,linkedin.com/company/le-refuge-gourmand,clermont-ferrand,le refuge gourmand,auvergne-rhone-alpes,1-10,
+france,,AmCTIBc045a3ITwL5RuM4Q02YQg5,restaurants,linkedin.com/company/l'etoile-de-l'inde,paris,l'etoile de l'inde,île-de-france,1-10,
+france,,56KqbhtGIBQMBVqv1TUxhgifpsMZ,restaurants,linkedin.com/company/gossip-coffee,metz-en-couture,gossip coffee,hauts-de-france,1-10,
+france,,fRaZQM0aJeZ9eO6bVIigRwjW3eRV,restaurants,linkedin.com/company/pizza-404,paris,pizza 404,île-de-france,1-10,
+france,,UCKSYwrhilJ0WDhWXN7bnwI5AGb0,restaurants,linkedin.com/company/l'odelys,plaisance-du-touch,l'odelys,occitanie,1-10,
+france,,vPdteYCw2xtDpj6RmPZBTQnCMxPT,restaurants,linkedin.com/company/cote-gourmand,rueil-malmaison,cote gourmand,île-de-france,1-10,
+france,,ymq39jHrABikhhJIFNknhQTDwZ6g,restaurants,linkedin.com/company/honorine,la londe-les-maures,honorine,provence-alpes-côte d'azur,1-10,
+france,,VkqK1r1Dm4JQyaSDyIvmHgN774D1,restaurants,linkedin.com/company/el-momento-bar,nantes,el momento bar,pays de la loire,1-10,
+france,,tRK6TsuJc1QCYUEVWNhxZAAvZ266,restaurants,linkedin.com/company/cafe-sherazad,aubervilliers,cafe sherazad,île-de-france,1-10,
+france,,XtxOBNC6c9m7i3LsRwW6bgVEICj3,restaurants,linkedin.com/company/wellbowl-poke-bowl,paris,wellbowl - poke bowl,île-de-france,1-10,
+france,,sHSmPmdYZ9qNL612alWhGgrf94hs,restaurants,linkedin.com/company/brasserie-99,villeneuve-d'ascq,brasserie 99,hauts-de-france,1-10,
+france,,ydg55XZtDCDx5FeunnWNmwSy9GPB,restaurants,linkedin.com/company/au-cerf,weyersheim,au cerf,grand est,1-10,
+france,,VxvLuWCXcgeLL0GLZFgstwRSUG6T,restaurants,linkedin.com/company/eurl-sirl,vénissieux,eurl sirl,auvergne-rhône-alpes,1-10,
+france,,C6OR219ukrrYa6cjuiqT7A3xpUVl,restaurants,linkedin.com/company/snack-bon-accueil,lyon,snack bon accueil,auvergne-rhone-alpes,1-10,
+france,,LSpJKwdKQ4oXKeFdiZYDWwPAJi5B,restaurants,linkedin.com/company/la-barrezienne,étréchy,la barrezienne,île-de-france,1-10,
+france,,6sE9B8bbCmMAFHImeh5x4A0lW9QK,restaurants,linkedin.com/company/l'auberge-andre,cambes,l'auberge andre,nouvelle-aquitaine,1-10,
+france,,kL1MC7IOOP2VyFeywHdtRQfKEWHV,restaurants,linkedin.com/company/restaurant-la-bastide,villeurbanne,restaurant la bastide,auvergne-rhône-alpes,1-10,restaurant-la-bastide.eatbu.com
+france,,zz2UP5Du07jZ89XcWAWSbwDVZS4P,restaurants,linkedin.com/company/vircondelet,les fins,vircondelet,bourgogne-franche-comté,1-10,
+france,,IokWzUqILGqvnhsfvde1lAE2X2Ho,restaurants,linkedin.com/company/club-sandwichs,saint-julien-lès-metz,club sandwichs,grand est,1-10,
+france,,4dyt3VV9PJNftcNY2xh67ggxvgUc,restaurants,linkedin.com/company/paris-frites,le havre,paris frites,normandie,1-10,
+france,,zOSNHJWzjeFY0xLvwTCOAwhZLUlR,restaurants,linkedin.com/company/jean-marc-saffet,montreuil,jean marc saffet,île-de-france,1-10,
+france,,a99NuOUTfPhCehp26Se4OA4EKMTW,restaurants,linkedin.com/company/la-maison-pourpre,paris,la maison pourpre,île-de-france,1-10,
+france,,ptcVP9WtaV3SWgeCCvgkCgxIQIhw,restaurants,linkedin.com/company/délices-du-maroc,lyon,délices du maroc,auvergne-rhone-alpes,1-10,
+france,,90Z5W0HsNVozApPVAlwFJgEoTmvD,restaurants,linkedin.com/company/le-moulin-a-pizzas,arzal,le moulin a pizzas,bretagne,1-10,moulinapizza.fr
+france,,t9KIbDItpKsBl1DLFxK6kQ3jaAfn,restaurants,linkedin.com/company/ghalia,strasbourg,ghalia,grand est,1-10,
+france,,BCFtencYQLTlX6GNdvR8nwBTZ23s,restaurants,linkedin.com/company/maison-grimaud,nantes,maison grimaud,pays de la loire,1-10,maisongrimaud.fr
+france,,oCFgbqLIjORNLT4OD0eZCAlAmaaN,restaurants,linkedin.com/company/croissant-doré,paris,croissant doré,île-de-france,1-10,
+france,,KZaB14TJcHVUBKeGWJ15AgzFTS1h,restaurants,linkedin.com/company/pizza-wax,le bouscat,pizza wax,nouvelle-aquitaine,1-10,
+france,,2CMDgzpX057REG1YBMuBfw6VIB6p,restaurants,linkedin.com/company/sarl-mayo,amiens,sarl mayo,hauts-de-france,11-50,
+france,,gYlJ7CTJzhg6jaHGLo1kxQP3Z1qZ,restaurants,linkedin.com/company/paturages,saint-andré-des-eaux,paturages,pays de la loire,1-10,
+france,,aCJ01N3UdmOYM3BLftpraAVK9mHj,restaurants,linkedin.com/company/restaurant-la-mercerie,nancy,restaurant la mercerie,grand est,1-10,
+france,,PErdivU0QeyX4QfkllDaoQ8J6fiG,restaurants,linkedin.com/company/eat-a-lherm,lherm,eat a lherm,occitanie,1-10,
+france,,jE6idUIKdQCCgTaUPBOXfQvBRtjC,restaurants,linkedin.com/company/sahh,toulouse,sahh,occitanie,1-10,
+france,,rzq9CoCo7yrTJs1SZujuyA7hF651,restaurants,linkedin.com/company/au-baalbek,grenoble,au baalbek,auvergne-rhone-alpes,1-10,
+france,,DXvawn2oG0AoefB14KZCXgC69RN6,restaurants,linkedin.com/company/le-metre,arcachon,le metre,nouvelle-aquitaine,1-10,
+france,,Yi0paY8pkdF2CFqLh8CSTwqxEgt5,restaurants,linkedin.com/company/pasta-croix-blanche,sainte-geneviève-des-bois,pasta croix blanche,île-de-france,1-10,
+france,,p3YBTiuO8gZr2oUe5lvA6QSsGFKw,restaurants,linkedin.com/company/adou-sophie,montpellier,adou sophie,occitanie,1-10,
+france,,VLGLQH10F4XqPKPEQHHAIwVPULq0,restaurants,linkedin.com/company/kfete,paris,kfete,île-de-france,1-10,
+france,,ENX8TzMPsFL1TDyg4vfviAu3WcFs,restaurants,linkedin.com/company/le-8---bar-à-vins-restaurant,orange,"le 8 - bar à vins, restaurant",provence-alpes-côte d'azur,1-10,le8.business.site
+france,,o4tCh6B1GCv1rdubPCj7Swb0t0al,restaurants,linkedin.com/company/meet-my-mama,paris,meet my mama,île-de-france,11-50,meetmymama.com
+france,,zXh0EcWyVpszweNBefEphgeb1bb0,restaurants,linkedin.com/company/cantal-15paris,paris,cantal 15paris,île-de-france,1-10,cantal15paris.business.site
+france,,By2uC7hTWpCebziTnzWv0gJrHnwW,restaurants,linkedin.com/company/le-delory,lesquin,le delory,hauts-de-france,1-10,
+france,,KUwrQKoK2g1vuCwuzCckggBMtlBj,restaurants,linkedin.com/company/lourcine,paris,lourcine,île-de-france,1-10,
+france,,09lNnNSO7LQBYm1SlCBh4AVUFJZn,restaurants,linkedin.com/company/-le-16eme-,paris,le 16eme,île-de-france,1-10,
+france,,UNEL6oI8QQoCivIymtF4xAMRANZe,restaurants,linkedin.com/company/ristorante-pizzeria-giuseppe,maisons-alfort,ristorante pizzeria giuseppe,île-de-france,1-10,
+france,,Albg0KItNYCxdICrtHKm9wc9U1Jd,restaurants,linkedin.com/company/les-3frères,saint-menet,les 3frères,provence-alpes-côte d'azur,11-50,
+france,,RCFNV4y42CaiNz0e9wMlFwArdl6f,restaurants,linkedin.com/company/jerry-associates,saint-pathus,jerry associates,île-de-france,1-10,
+france,,NZE5bXEuJcQoPldoIO7nVwgubJPK,restaurants,linkedin.com/company/pizzatelier,lille,pizzatelier,hauts-de-france,1-10,pizzatelier.com
+france,,LhtRhxy2TQZweCoQ5zpiVAzFpIWr,restaurants,linkedin.com/company/breizh-tentation,guidel,breizh tentation,bretagne,1-10,
+france,,57ccApxUsxZZ53T3IG0fCQb5MfHj,restaurants,linkedin.com/company/lopez-city,bordeaux,lopez city,nouvelle-aquitaine,1-10,
+france,,OYWFByc4OlcAfry0CimsBQbe4mvz,restaurants,linkedin.com/company/eatali,saint-pierre-la-palud,eatali,auvergne-rhône-alpes,1-10,
+france,,UL55xkwnqPuwCGcwifPzMAcrIEto,restaurants,linkedin.com/company/grand-cafe-repetto,arcachon,grand cafe repetto,nouvelle-aquitaine,1-10,grandcaferepetto.com
+france,,QjJe8j9MhwaQVV4E8oCRKgA0uvfM,restaurants,linkedin.com/company/memphis-evreux,nimes,memphis evreux,occitanie,1-10,
+france,,PCR7kEuyKBTS3Wfbs2ohQwznhfmF,restaurants,linkedin.com/company/scordia,rennes,scordia,bretagne,1-10,
+france,,zjTtymCjNzFGBCeORQPLmAQnKipP,restaurants,linkedin.com/company/eurl-pinochietto-pizza,arnèke,eurl pinochietto pizza,hauts-de-france,1-10,
+france,,8V6gItNmIi9v5vfLyGfD1QQQYGNR,restaurants,linkedin.com/company/seguela,nègrepelisse,seguela,occitanie,1-10,
